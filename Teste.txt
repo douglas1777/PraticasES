@@ -1,0 +1,27 @@
+Estrutura de um site:
+características.
+A estrutura do html é gerada por Tags, ex: (<p> parágrafo).
+<p>  e </p>        //Parágrafo.
+<h1> e </h1>      // Título.
+<h2> e <h/2>      //Subtítulo.
+<em> <strong> <b> //Define texo enfatizado
+<br> 		  // Quebra linha.
+<meta>            //Adiciona metadados à página.
+<hr> 		  //cria linha, pode ser editada pelo css.
+Ctrl+Shift+Setas pra baixo copia a linha em destaque.
+
+Os principais buscadores (google, bingo etc...) possuem bots(SEO) para 
+buscar as principais palavras de seu site (divugação), com base nessa estrutura,
+portanto as principais informações deixe como "<h1>".
+ 
+
+<ul>
+      <li>blá-blá-blá</li>      
+</ul> //Tags utilizadas para criar uma lista = (*blá-blá-blá)
+
+
+ <ol>
+      <li>blá-blá-blá</li>      
+</ol> // Tags utilizadas para criar lista enumerada = (1.blá-blá-blá)       
+       
+ <img src=''/> // indicar uma imagem pra ser importda ao seu site.
